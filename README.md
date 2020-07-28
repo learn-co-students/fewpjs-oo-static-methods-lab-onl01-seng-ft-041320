@@ -1,3 +1,4 @@
+namen
 # Static Methods Lab
 
 ## Learning Goals
